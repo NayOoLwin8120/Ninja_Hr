@@ -1,0 +1,4 @@
+Graphqlapi is http://127.0.0.1:8000/graphql
+Database name is Ninja_Hr
+
+
